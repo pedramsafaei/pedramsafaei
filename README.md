@@ -8,9 +8,10 @@
 
 
 ## Interests 
-- Robotics (Navigation, Perception)
+- Blockchain
 - AI/ML
-- Full-Stack Development
+- Robotics (Navigation, Perception)
+- Back-end development (maybe Full-stack if you're nice about it)
 
 
 
