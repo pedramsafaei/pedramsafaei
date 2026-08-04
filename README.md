@@ -3,15 +3,15 @@
 </p>
 
 # About me
-<p> I'm Pedram, 27 years old, Stack Overflow user! </p> <br/>
-<p> Currently working full-time and going to grad school part-time so I've been a lot less active but I'm starting to come back. Looking forward to share some interesting stuff soon. </p> <br/>
+<p> I'm Pedram, 28 years old, Stack Overflow user! </p> <br/>
+<p> Currently working full-time and camping part time :D so I've been a lot less active but I'm starting to come back. Looking forward to share some interesting stuff soon. </p> <br/>
 
 
 ## Interests 
-- Blockchain
 - AI/ML
 - Robotics (Navigation, Perception)
 - Back-end development (maybe Full-stack if you're nice about it)
+- Blockchain
 
 
 
