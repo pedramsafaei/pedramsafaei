@@ -8,6 +8,8 @@
 
 
 ## Interests 
+- Security
+- Observability
 - AI/ML
 - Robotics (Navigation, Perception)
 - Back-end development (maybe Full-stack if you're nice about it)
